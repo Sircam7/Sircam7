@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/felixaguilarsanchez/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div> 
-
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sircam7&theme=transparent&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -29,6 +23,12 @@ Here are some ideas to get you started:
     <p>My name is <b>Félix</b></p>
 </div>
 -->
+
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/felixaguilarsanchez/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div> 
 
 <div id="stats" align="center">
     <a href="https://git.io/streak-stats">
