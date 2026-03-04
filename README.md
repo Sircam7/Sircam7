@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 </div>
 
 <div id="views" align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sircam7" alt="Profile Views"/>
     <p> Take a look at my <a href="www.felixaguilar.es" target="_blank">other side!</a> </p>
+    <!-- <img src="https://komarev.com/ghpvc/?username=Sircam7" alt="Profile Views"/> -->
 </div>
