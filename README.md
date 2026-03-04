@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋 -->
+## Hi there 👋
 
 <!--
 **Sircam7/Sircam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +28,12 @@ Here are some ideas to get you started:
 <div id="about-me" align="center">
     <h2 align="center">Hi there 👋</h2>
     <p>My name is <b>Félix</b></p>
-    <p>Take a look at my <a href="www.felixaguilar.es" target="_blank">other side!</a></p>
 </div>
 
 <div id="stats" align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sircam7&theme=github-dark-dimmed&hide_border=true&border_radius=7&locale=es" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Sircam7&theme=transparentd&hide_border=true&border_radius=7&locale=es" alt="GitHub Streak" />
+    </a>
+
+    <p> Take a look at my <a href="www.felixaguilar.es" target="_blank">other side!</a> </p>
 </div>
